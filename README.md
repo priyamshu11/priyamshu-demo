@@ -1,4 +1,4 @@
 # priyamshu-demo
 my first git repository
 <br>
-author-Priyamshu mk
+author-Priyamshu Devadiga
